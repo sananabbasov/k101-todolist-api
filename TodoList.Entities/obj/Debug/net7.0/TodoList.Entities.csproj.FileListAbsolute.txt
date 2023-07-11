@@ -1,0 +1,15 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/bin/Debug/net7.0/TodoList.Entities.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/bin/Debug/net7.0/TodoList.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/bin/Debug/net7.0/TodoList.Entities.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/bin/Debug/net7.0/TodoList.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/bin/Debug/net7.0/TodoList.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.csproj.CopyComplete
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/refint/TodoList.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/TodoList.Entities.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/TodoList/TodoList.Entities/obj/Debug/net7.0/ref/TodoList.Entities.dll

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D006936D-CBB9-40F5-ABE9-77749B2672F7}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TodoList.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoList.WebApi/Controllers/TaskListController.cs">
+    <Files>
+      <File FileName="TodoList.DataAccess/Concrete/EntityFramework/AppDbContext.cs" />
+      <File FileName="TodoList.WebApi/Controllers/TaskListController.cs" Line="39" Column="47" />
+      <File FileName="TodoList.Business/Concrete/TaskListManager.cs" />
+      <File FileName="TodoList.WebApi/Program.cs" Line="56" Column="23" />
+      <File FileName="TodoList.Entities/DTOs/TaskAddDTO.cs" Line="10" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
